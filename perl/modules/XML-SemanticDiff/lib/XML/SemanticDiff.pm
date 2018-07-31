@@ -3,9 +3,9 @@ package XML::SemanticDiff;
 use strict;
 use warnings;
 
-use 5.012;
+use 5.008;
 
-our $VERSION = '1.0006';
+our $VERSION = '1.0007';
 
 use XML::Parser;
 
